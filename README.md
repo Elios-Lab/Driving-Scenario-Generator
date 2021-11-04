@@ -1,4 +1,4 @@
-# MottaBonora-CarlaScenarioGenerator
+# Driving Scenario Generator
 
 Questa repo implementa la generazione di scenari di guida descritti in formato openscenario, li riproduce sul simulatore Carla e salva le esecuzioni in formato video.
 
